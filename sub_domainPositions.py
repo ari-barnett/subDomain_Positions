@@ -11,7 +11,7 @@ sub_domain = desired number of sub domains
 N = length of a given sub domain 
 M = N * yDim
 
-For a board of domain size (K = 100) determine the lower left corner of a fractination of 9
+For a board of domain size (K = 225) determine the lower left corner of a fractination of 9
 '''
 
 i = 0
