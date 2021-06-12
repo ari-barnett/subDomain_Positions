@@ -3,7 +3,7 @@ import math
 origin_point = 11
 sub_domain = 4
 N = 5
-yDim = 10
+yDim = 15
 i_values = []
 
 '''
